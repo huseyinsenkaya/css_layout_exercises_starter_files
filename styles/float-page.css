@@ -11,6 +11,7 @@ main {
   margin-right: auto;
 }
 
+<<<<<<< HEAD
 .first,.second {
   margin-top: 10px;
   margin-bottom: 10px;
@@ -22,11 +23,27 @@ main {
   height: 291px;
   width: 308px;
   margin-right: 10px;
+=======
+
+.first, .second  {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  width: 300px;
+}
+
+.first {
+  float: left;
+  margin-right: 15px;
+>>>>>>> origin
 }
 
 .second {
   float: right;
+<<<<<<< HEAD
   height: 250px;
   width: 276px;
   margin-left: 10px;
+=======
+  margin-left: 15px;
+>>>>>>> origin
 }
